@@ -1,0 +1,2 @@
+SELECT * FROM tb_alunos WHERE NOTA > 7;
+SELECT * FROM tb_alunos WHERE NOTA < 7;
